@@ -1,0 +1,36 @@
+.home-container {      
+    width: 100%;height: 680px;
+    background-color: rgb(225, 222, 222);
+}
+.home-title {
+    width: 100%;height: 70px;
+    background-color: #3fcccb;
+    color: white;font-size: 20px;
+    text-align: center;line-height: 70px;
+}
+.flex-container {
+    margin-top: 10px;
+}
+.flex-container .inline {
+    width: 110px;height: 110px;
+}
+.flex-container .placeholder {
+    background-color: #f00;
+}
+.hot-container{
+    width: 100%;height: 263px;
+    background-color: white;
+    margin-top: 10px;
+}
+.hot-recommend{
+    width: 100%;height: 43px;
+    background-color: white;
+    line-height: 43px;
+}
+.hot-sign{
+    margin-right: 10px;color: #3fcccb;
+    font-weight: bold;
+}
+.hot-title{
+    font-size: 18px;
+}
